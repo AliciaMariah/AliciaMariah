@@ -29,6 +29,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![EC2](https://img.shields.io/badge/AWS--EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security%20Groups-FF4C29?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Subnets](https://img.shields.io/badge/Subnets-006600?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Internet Gateway](https://img.shields.io/badge/Internet%20Gateway-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### 🔍 Estudando no momento:
