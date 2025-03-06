@@ -58,6 +58,9 @@
  
 </p>
 
+<img height="160em" align=right src="https://media.discordapp.net/attachments/1336039551894028288/1347243890033299496/Picsart_25-03-06_12-27-03-449.png?ex=67cb1e25&is=67c9cca5&hm=d6c0dd5376467801b187d669d9fca267668c4e0ce1122e9982997178d1d5ab14&=&format=webp&quality=lossless"/>
+<img height="160em" align=right src="https://media.discordapp.net/attachments/1336039551894028288/1347251858233753690/Picsart_25-03-06_13-56-16-721.png?ex=67cb2591&is=67c9d411&hm=0b63fe35ced4009ef628cf5ff7f9ba893f795f8548fe1f1408d7b6b0f6afd1d2&=&format=webp&quality=lossless"/>
+
 ### ✨ Redes Sociais
 
 <div style="display: inline_block"><br>
@@ -65,6 +68,7 @@
   <a href="mailto:aliciamariahbarbosalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aliciamariahbarbosalopes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 </div>
+
 
 
 <!-- 🎯 Conhecimentos nas áreas:
