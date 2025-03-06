@@ -1,4 +1,4 @@
-## ✨ ![AliciaMariah](https://img.shields.io/badge/%20-EU%20SOU%20A%20ALICIA%20MARIAH!-ff69b4)
+## ✨ ![AliciaMariah](https://img.shields.io/badge/%20-EU%20SOU%20A%20ALICIA%20MARIAH!-d804a8)
 
 
 ### 🎓 Formação Acadêmica: 
